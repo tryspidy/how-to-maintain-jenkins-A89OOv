@@ -1,0 +1,6 @@
+It is done by -DevOps Team-,
+But I provide them information of my tests and configuration info and
+also the emails to send notifications.
+ Git path
+ Mvn code; goals - compile, or verify -drunner=xml, etc.
+ Time schedule for certain tests
